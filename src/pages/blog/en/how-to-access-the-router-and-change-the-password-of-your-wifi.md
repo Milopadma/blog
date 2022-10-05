@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPost.astro"
+layout: "../../../layouts/BlogPost.astro"
 title: "How to access the router and change the password of your wifi"
 description: "A tutorial on how to access the router and change the password of your wifi"
 pubDate: "Oct 06 2022"
