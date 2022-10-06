@@ -26,7 +26,7 @@ pubDate: "Oct 06 2022"
 
 ---
 
- 5. Once you're in, find the 'Wireless' tab and click on it.
+ 5. Once you're in, find the 'Wireless' tab and click on it. Might also be 'SSID'.
         ![alt text](/5.png) 
 
 ---
@@ -40,4 +40,4 @@ pubDate: "Oct 06 2022"
  
 ---
  
- 8. Congrats! You've changed the password of your router!
+ 8. Congrats! You've changed the password of your wifi!
